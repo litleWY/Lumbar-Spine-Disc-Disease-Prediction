@@ -11,3 +11,5 @@ Low back pain, affecting over 619 million people, is the top cause of disability
 RSNA and ASNR are hosting a competition to see if AI can assist in detecting and classifying these spine conditions using MRI images of the lumbar spine. The focus is on classifying five specific conditions across different spinal levels, with severity scores provided for each.
 
 The challenge uses a diverse dataset from multiple institutions worldwide to improve classification standards and develop tools for automated disease assessment.
+
+The datasets could be downloaded at https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data
