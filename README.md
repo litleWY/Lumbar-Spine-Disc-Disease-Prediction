@@ -13,3 +13,5 @@ RSNA and ASNR are hosting a competition to see if AI can assist in detecting and
 The challenge uses a diverse dataset from multiple institutions worldwide to improve classification standards and develop tools for automated disease assessment.
 
 The datasets could be downloaded at https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data
+
+This is the notebook that I learned from it: https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-densenet-submission
