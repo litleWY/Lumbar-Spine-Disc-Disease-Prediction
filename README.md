@@ -15,3 +15,5 @@ The challenge uses a diverse dataset from multiple institutions worldwide to imp
 The datasets could be downloaded at https://www.kaggle.com/competitions/rsna-2024-lumbar-spine-degenerative-classification/data
 
 This is the notebook that I learned from it: https://www.kaggle.com/code/hugowjd/rsna2024-lsdc-densenet-submission
+
+This jupyter notebook that I upload don't include training process, I will upload that later. 
